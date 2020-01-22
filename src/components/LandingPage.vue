@@ -15,7 +15,7 @@ export default {
     return {
       welcomeMsg: "Welcome to Mini Good Read",
       appDesc:
-        "A sample app developed to serve the purpose of learning Vue at VueFest 2020, Deloitte."
+        "A sample app developed to serve the purpose of learning Vue at VueFest 2020"
     };
   }
 };
