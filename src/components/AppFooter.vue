@@ -9,7 +9,7 @@ export default {
   name: "AppFooter",
   data() {
     return {
-      copyright: "Copyright to VueFest 2020 @ Deloitte"
+      copyright: "Copyright to VueFest 2020"
     };
   }
 };
